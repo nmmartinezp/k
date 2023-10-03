@@ -1,0 +1,28 @@
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.exe.config
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.exe
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.pdb
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.AssemblyReference.cache
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Form1.resources
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Properties.Resources.resources
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.GenerateResource.cache
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.CoreCompileInputs.cache
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.exe
+C:\Users\niki\source\repos\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.pdb
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.exe.config
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.exe
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\sis301_Pescadería.pdb
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.AssemblyReference.cache
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Form1.resources
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Properties.Resources.resources
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.GenerateResource.cache
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.CoreCompileInputs.cache
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.exe
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.pdb
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Menu.resources
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\MySql.Data.dll
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\MySql.Data.xml
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.csproj.CopyComplete
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\BaseData.dll
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\bin\Debug\BaseData.pdb
+C:\Users\niki\Desktop\proyectos de c# window forms\sis301_Pescadería\sis301_Pescadería\obj\Debug\sis301_Pescadería.Alldata.resources
